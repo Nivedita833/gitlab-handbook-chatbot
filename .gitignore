@@ -1,0 +1,8 @@
+node_modules/
+.DS_Store
+.env
+.env.local
+data/sources.generated.json
+data/ingestion-report.json
+npm-debug.log*
+coverage/
