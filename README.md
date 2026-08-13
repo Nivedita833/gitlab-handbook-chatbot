@@ -1,5 +1,5 @@
 # GitLab Handbook Chatbot
-
+Link : https://gitlab-handbook-chatbot.onrender.com/
 A GenAI/RAG chatbot for answering employee and candidate questions from GitLab's public Handbook and Direction material.
 
 It is designed to stand out in a crowded candidate pool by combining a polished chat UI, transparent source citations, measurable evaluation, guardrails, and optional LLM generation.
